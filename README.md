@@ -2,7 +2,7 @@
 
 ## I Only Created the Netflix Browse Page Clone with Trailer Preview
 ## What I Used : 
-### Axios , Youtube , Movie Trailer
+### Axios , React Youtube , Movie Trailer
 
 # For the Live Preview:
 https://ntfx-cln.web.app/
